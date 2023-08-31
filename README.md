@@ -26,6 +26,9 @@ In this work sample the following 3 columns are retrieved: FirstName, LastName a
 ![Datequery1](https://github.com/delbri8w/Projects_List1/blob/main/Images/DateOnlyQueryA2.jpg)
 
 
+##### This shows the image using the images folder again:
+
+[](Images/DateTimeQueryA1.jpg)
 
 
 
