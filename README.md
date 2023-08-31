@@ -18,9 +18,12 @@ In this work sample the following 3 columns are retrieved: FirstName, LastName a
 
 ![DateOnlyQueryA2](https://github.com/delbri8w/Projects_List1/assets/143523078/539e160a-96e4-44b2-a867-1c2a4bfece0b)
 
-##### For more click below:
+##### For more click this link below:
 [Click Here](https://www.wikipedia.org/)
 
+
+##### This shows the image using the images folder:
+![Datequery1](https://github.com/delbri8w/Projects_List1/blob/main/Images/DateOnlyQueryA2.jpg)
 
 
 
