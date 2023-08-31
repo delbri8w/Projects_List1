@@ -6,4 +6,4 @@
 This work sample uses the Employees Table from the Northwind database and returns the following 3 columns: FirstName, LastName and Birthdate
 with date and time displayed. The picture below shows the result of this query.
 
-![Retrieved Columns](C:\Users\adelb\Documents\TRAINING\PORTFOLIO\DateOnly-SQL-QueryC1.jpg)
+![](C:\Users\adelb\Documents\TRAINING\PORTFOLIO\DateOnlyQueryC1.jpg)
