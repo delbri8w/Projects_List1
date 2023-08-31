@@ -28,7 +28,7 @@ In this work sample the following 3 columns are retrieved: FirstName, LastName a
 
 ##### This shows the image using the images folder again:
 
-![](Images/DateTimeQueryA1.jpg)
+![](images/datetimequerya1.jpg)
 
 
 
