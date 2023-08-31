@@ -18,6 +18,9 @@ In this work sample the following 3 columns are retrieved: FirstName, LastName a
 
 ![DateOnlyQueryA2](https://github.com/delbri8w/Projects_List1/assets/143523078/539e160a-96e4-44b2-a867-1c2a4bfece0b)
 
+##### For more click below:
+[Link](https://www.youtube.com/Sorting%20A%20Table )
+
 
 
 
