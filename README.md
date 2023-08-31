@@ -17,7 +17,7 @@ with date and time displayed. The picture below shows the result of this query.
 In this work sample the following 3 columns are retrieved: FirstName, LastName and Birthdate with the date part only. The result is shown in the picture below.
 
 
-
+https://github.com/delbri8w/Projects_List1/blob/main/Images/DateOnlyQueryA2.jpg
 
 
 
