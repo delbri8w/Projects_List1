@@ -20,13 +20,10 @@ with date and time displayed. The picture below shows the result of this query.
 [Click Here](https://www.wikipedia.org/)
 
 
-##### This shows the image using the images folder:
-![Datequery1](https://github.com/delbri8w/Projects_List1/blob/main/Images/DateOnlyQueryA2.jpg)
 
 
-##### This shows the image using the images folder again:
 
-![](images/datetimequerya1.jpg)
+
 
 
 
