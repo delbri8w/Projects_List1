@@ -12,7 +12,9 @@ with date and time displayed. The picture below shows the result of this query.
 ![ProjectR](https://raw.githubusercontent.com/delbri8w/Projects_List1/de507d0f3369b07a2d7b24f9854f4db03f601f0b/Images/Rdatapart23.JPG)
 
 
-![DateOnlyQueryA2](https://github.com/delbri8w/Projects_List1/assets/143523078/539e160a-96e4-44b2-a867-1c2a4bfece0b)
+![ProjectR2](https://github.com/delbri8w/Projects_List1/blob/abab09f6338f4b850ace1ebc7202bc1ea3efcf3e/Images/Rdatapart12b.JPG)
+
+
 
 ##### For more click this link below:
 [Click Here](https://www.wikipedia.org/)
