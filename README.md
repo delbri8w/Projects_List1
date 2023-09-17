@@ -9,6 +9,8 @@ with date and time displayed. The picture below shows the result of this query.
 
 ![DateOnly-SQL-QueryB1](https://github.com/delbri8w/Projects_List1/assets/143523078/75dd2aa4-de73-4521-9dc5-bdc906d30bf8)
 
+![Rproject1](https://github.com/delbri8w/Projects_List1/blob/main/Images/DateOnlyQueryA2.jpg)
+
 
 ## Work Sample2 
 
