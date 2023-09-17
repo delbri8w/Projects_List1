@@ -19,6 +19,15 @@ with date and time displayed. The picture below shows the result of this query.
 
 
 
+
+
+
+
+
+
+
+
+
 ![ProjectR2](https://github.com/delbri8w/Projects_List1/blob/abab09f6338f4b850ace1ebc7202bc1ea3efcf3e/Images/Rdatapart12b.JPG)
 
 
