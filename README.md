@@ -3,7 +3,7 @@
 
 ### Exploratory Data Analysis - Cyclistic Bike-Share 
 
-#### To see more of this project -> [Click here on this link](https://www.wikipedia.org)
+#### To see more of this project -> [Click here on this link](https://www.kaggle.com/code/brigitei/case-study-data-analytics-v1)
 
 ![ProjectR](https://raw.githubusercontent.com/delbri8w/Projects_List1/de507d0f3369b07a2d7b24f9854f4db03f601f0b/Images/Rdatapart23.JPG){width=85%}  
 
