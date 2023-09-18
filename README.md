@@ -21,8 +21,10 @@
 
 ###  SQL Queries  SQL Server  Exploratory Data Analysis 
 
-##### For more : <
-https://1drv.ms/b/s!Ag4Ghq9XPtYbhFRY9QDyGOjpJV_s?e=EiEI0Z>.
+.
+
+
+##### For more : <https://1drv.ms/b/s!Ag4Ghq9XPtYbhFRY9QDyGOjpJV_s?e=zkLf7Q>
 
 ![ProjectR](https://github.com/delbri8w/Projects_List1/blob/f707ed0f51b0c426e8026fe988a4ad3fdf79bf82/Images/SQL-EDA-SalesDataProject1.JPG){width=85%} 
 
