@@ -16,6 +16,8 @@
 
  ![ProjectR](https://github.com/delbri8w/Projects_List1/blob/d77128fbfc82fce739c127fe6371959da3f844e3/Images/Dvizatableauproject1.JPG){width=85%}  
 
+
+
 &nbsp;
 
 ## SQL Project
@@ -24,7 +26,7 @@
 
 #### To see more of this project -> [Click here on this link](https://1drv.ms/b/s!Ag4Ghq9XPtYbhFRY9QDyGOjpJV_s?e=zkLf7Q)
 
-![ProjectR](https://github.com/delbri8w/Projects_List1/blob/d77128fbfc82fce739c127fe6371959da3f844e3/Images/Sedaqlsalesdataproject1.JPG){width=85%} 
+![ProjectR](https://github.com/delbri8w/Projects_List1/blob/main/Images/Sedaqlsalesdataproject1.JPG){width=85%} 
 
 
 
