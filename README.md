@@ -16,7 +16,7 @@
 
  ![ProjectR](https://github.com/delbri8w/Projects_List1/blob/d77128fbfc82fce739c127fe6371959da3f844e3/Images/Dvizatableauproject1.JPG){width=85%}  
 
-
+![](https://github.com/delbri8w/Projects_List1/blob/main/Images/Dvizatableauproject1.JPG){width=85%} 
 
 &nbsp;
 
