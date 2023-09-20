@@ -25,7 +25,7 @@
 
 #### To see more of this project -> [Click here on this link](https://1drv.ms/b/s!Ag4Ghq9XPtYbhFRY9QDyGOjpJV_s?e=zkLf7Q)
 
-![ProjectR](https://github.com/delbri8w/Projects_List1/blob/main/Images/Sedaqlsalesdataproject1.JPG){width=85%} 
+![ProjectR](https://github.com/delbri8w/Projects_List1/blob/main/Images/Sedaqlsalesdataproject1.JPG)
 
 
 
