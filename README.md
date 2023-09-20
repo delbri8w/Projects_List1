@@ -14,7 +14,8 @@
 ###  Sales Dashboard - Sales_Data_Sample
 #### To see more of this project -> [Click here on this link](https://public.tableau.com/app/profile/brigite.inevil)
 
- ![ProjectR](https://github.com/delbri8w/Projects_List1/blob/d77128fbfc82fce739c127fe6371959da3f844e3/Images/Dvizatableauproject1.JPG)  
+ ![ProjectR](https://github.com/delbri8w/Projects_List1/blob/d77128fbfc82fce739c127fe6371959da3f844e3/Images/Dvizatableauproject1.JPG)
+
 
 
 &nbsp;
